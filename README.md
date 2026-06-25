@@ -5,9 +5,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSBS%20'27-FF007F?style=for-the-badge&logo=education&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI--Augmented%20Development-00F5D4?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-7000FF?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <img src="https://assets.breatheco.de/apis/img/images/animated/coder-girl.gif" width="380" alt="Creative Live Animated Coding Workflow" style="border-radius: 20px; filter: drop-shadow(0px 0px 15px rgba(112, 0, 255, 0.4)); margin: 15px 0;" />
+</p>
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="color: #00F5D4; font-family: monospace; font-size: 20px; font-weight: bold; background: #171c1f; padding: 10px; border-radius: 10px; border: 1px solid #7000FF;">
+    ☕ Java Full-Stack Systems ⚡ AI-Augmented Engineering 🚀 Data Structures & Algorithms 🧠 Continuous System Adaptation 
+  </marquee>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.TECH-CSBS%20'27-FF007F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-AI--AUGMENTED%20DEVELOPMENT-00F5D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-7000FF?style=for-the-badge" />
 </p>
 
 > 💡 **"From spotting bugs in a system to building solutions from scratch — I code to solve, not just to submit."**
@@ -16,23 +26,17 @@ I am a 3rd-year Computer Science & Business Systems (CSBS) student at SIRT Bhopa
 
 ---
 
-### 🏅 Creative Milestones & Professional Badges
+### 🏅 Verified Technical Credentials & Milestones
 
-<p align="left">
-  <img src="https://i.ibb.co/vYm66N3/blob.png" width="135" alt="Microsoft AI Skills Fest Badge" align="left" style="margin-right: 25px; border-radius: 15px; filter: drop-shadow(0px 0px 15px #00F5D4);" />
-  <b>Microsoft AI Skills Fest 2026</b><br />
-  Validated framework foundation in enterprise cloud intelligence and intelligent engineering workflows.
-  <br /><br />
-  🔮 <b>The AI Advantage:</b> I treat AI as a high-speed pair-programmer—leveraging prompt-driven architectures to accelerate backend debugging, run deep exception traces, and design resilient logic layers.
-</p>
-<br clear="left"/>
+* 🎓 **Microsoft AI Skills Fest 2026** — Validated framework foundation in enterprise cloud intelligence, automation tools, and intelligent developer workflows.
+* 🔮 **The AI Advantage** — I treat AI tools as a high-speed pair-programmer—leveraging prompt-driven systems to accelerate complex debugging loops, run deep exception traces, and design resilient backend logic layers.
 
 ---
 
 ### 🚀 High-Impact Engineering Projects
 
 * 📡 **Sentinel-AI** — *Real-time Civic Intelligence & Crisis Response Platform* (**Hackathon Finalist**).
-  * Engineered application control flows integrated with intelligent layers to solve heavy operational bottlenecks.
+  * Engineered robust backend application control flows seamlessly integrated with intelligent helper layers to solve multi-layered operational bottlenecks.
   * *My Philosophy:* True learning happens when a live system breaks and you reverse-engineer the root cause to build a cleaner, bulletproof version.
 
 ---
@@ -46,7 +50,7 @@ I am a 3rd-year Computer Science & Business Systems (CSBS) student at SIRT Bhopa
   </a>
 </p>
 
-| Layer | Technologies & Core Concepts |
+| Architecture Layer | Verified Tech & Core Concepts |
 | :--- | :--- |
 | **Core & Logic** | `Java` • `Data Structures & Algorithms (DSA)` • `OOP / OOD` |
 | **Backend Engineering** | `Spring Boot` • `Spring MVC` • `RESTful APIs` • `JDBC` |
@@ -66,7 +70,7 @@ I am a 3rd-year Computer Science & Business Systems (CSBS) student at SIRT Bhopa
   </a>
 </p>
 
-| Layer | Tooling Stack |
+| Experience Layer | Front-End & Prototyping |
 | :--- | :--- |
 | **Frontend & UI/UX** | `HTML5` • `CSS3` • `JavaScript` • `Figma` |
 
@@ -77,7 +81,7 @@ I am a 3rd-year Computer Science & Business Systems (CSBS) student at SIRT Bhopa
   </a>
 </p>
 
-| Layer | Workspace Environment |
+| Operational Layer | Tooling & Workspace Environments |
 | :--- | :--- |
 | **Dev Tools & Ops** | `Git` • `GitHub` • `Postman` • `IntelliJ IDEA` |
 
@@ -85,8 +89,8 @@ I am a 3rd-year Computer Science & Business Systems (CSBS) student at SIRT Bhopa
 
 ### 🧠 Current Learning Focus (Agile Adaptation)
 
-* 📈 **Algorithmic Roots (DSA):** Actively studying deep Data Structures & Algorithms patterns via structured tracking to make my backend microservices completely optimized.
-* 🔌 **AI Pipeline Integration:** Deepening my knowledge on connecting Spring Boot REST APIs with automated model checkpoints and live intelligent triggers.
+* 📈 **Algorithmic Roots (DSA):** Actively studying deep Data Structures & Algorithms patterns via structured tracking to make my backend code completely optimized.
+* 🔌 **AI Pipeline Integration:** Learning how to cleanly integrate secure external AI APIs (like OpenAI) into Spring Boot REST backends to build smart, automated application workflows.
 
 ---
 
