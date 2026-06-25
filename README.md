@@ -97,4 +97,4 @@ I am a 3rd-year Computer Science & Business Systems (CSBS) student at SIRT Bhopa
 ### 📌 Looking For Opportunities
 I am actively seeking **Java Developer / Full Stack Internships** where I can bring my adaptable mindset, build creative engineering paths, and contribute to scalable architectures.
 
-[**LinkedIn**](https://linkedin.com/in/pal-tripathi-) | [**Email Me**](mailto:palak09.learner@gmail.com)
+[**LinkedIn**](https://linkedin.com/in/pal-tripathi-) | [**Email Me**](mailto:palak09.learner@gmail.com)> > 🔒 **Lost access to my previous GitHub account due to a device 2FA / Authenticator lockout. Moving my older repositories and actively rebuilding my projects here on this fresh profile!**
