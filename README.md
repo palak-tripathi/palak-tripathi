@@ -35,7 +35,7 @@ I am a 3rd-year Computer Science & Business Systems (CSBS) student at SIRT Bhopa
 
 ### 🚀 High-Impact Engineering Projects
 
-* 📡 **Sentinel-AI** — *Real-time Civic Intelligence & Crisis Response Platform* (**Hackathon Finalist**).
+* 📡 **Sentinel-AI** — *Real-time Civic Intelligence & Crisis Response Platform* (**Hackathon top 50 **).
   * Engineered robust backend application control flows seamlessly integrated with intelligent helper layers to solve multi-layered operational bottlenecks.
   * *My Philosophy:* True learning happens when a live system breaks and you reverse-engineer the root cause to build a cleaner, bulletproof version.
 
