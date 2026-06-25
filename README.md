@@ -33,68 +33,45 @@ I am a 3rd-year Computer Science & Business Systems (CSBS) student at SIRT Bhopa
 
 ---
 
-### 🚀 High-Impact Engineering Projects
+### 🚀  Projects
 
-* 📡 **Sentinel-AI** — *Real-time Civic Intelligence & Crisis Response Platform* (**Hackathon top 50 **).
+* 📡 **Sentinel-AI** — *Real-time Civic Intelligence & Crisis Response Platform* (**Hackathon top 50**).
   * Engineered robust backend application control flows seamlessly integrated with intelligent helper layers to solve multi-layered operational bottlenecks.
   * *My Philosophy:* True learning happens when a live system breaks and you reverse-engineer the root cause to build a cleaner, bulletproof version.
 
 ---
 
-### 🛠️ Systematic & Highly Visual Tech Stack
+### 🛠️  Tech Stack
 
-#### ☕ Core Engine & Smart Backend
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,react,ts,tailwind,docker,git,github,postman,idea,figma&theme=dark" 
+    style="filter: drop-shadow(0px 0px 8px rgba(112, 0, 255, 0.6)); transition: all 0.3s ease-in-out; cursor: pointer;" 
+    onmouseover="this.style.filter='drop-shadow(0px 0px 15px rgba(0, 245, 212, 0.8))'" 
+    onmouseout="this.style.filter='drop-shadow(0px 0px 8px rgba(112, 0, 255, 0.6))'" />
   </a>
 </p>
 
-| Architecture Layer | Verified Tech & Core Concepts |
+| Category | High-Demand Technology & Concepts |
 | :--- | :--- |
-| **Core & Logic** | `Java` • `Data Structures & Algorithms (DSA)` • `OOP / OOD` |
-| **Backend Engineering** | `Spring Boot` • `Spring MVC` • `RESTful APIs` • `JDBC` |
-| **Data Tier Management** | `MySQL` • `Relational DB Design` • `Query Optimization` |
+| **Primary Backend** | `Java ` • `Spring Boot ` • `Microservices` • `RESTful APIs` |
+| **Data & Caching** | `MySQL` • `Redis (Caching Layer)` • `Kafka (Messaging)` |
+| **Full-Stack Edge** | `React.js` • `TypeScript` • `Tailwind CSS` • `JavaScript (ES6+)` |
+| **Workspace & Ops** | `Docker` • `Git/GitHub` • `Postman` • `IntelliJ IDEA` • `Figma` |
+| **AI Integration** | `LLM Integration` • `Vector Databases (Pinecone)` • `Prompt Engineering` |
 
-#### 🤖 AI Integration & Intelligent Layer
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=openai,bots&theme=dark" />
-  </a>
-</p>
+### 🧠  Learning 
 
-#### 🎨 Client-Side Experience & Design
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" />
-  </a>
-</p>
-
-| Experience Layer | Front-End & Prototyping |
-| :--- | :--- |
-| **Frontend & UI/UX** | `HTML5` • `CSS3` • `JavaScript` • `Figma` |
-
-#### 🔧 Version Control & Core Workspace
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,idea&theme=dark" />
-  </a>
-</p>
-
-| Operational Layer | Tooling & Workspace Environments |
-| :--- | :--- |
-| **Dev Tools & Ops** | `Git` • `GitHub` • `Postman` • `IntelliJ IDEA` |
-
----
-
-### 🧠 Current Learning Focus (Agile Adaptation)
-
-* 📈 **Algorithmic Roots (DSA):** Actively studying deep Data Structures & Algorithms patterns via structured tracking to make my backend code completely optimized.
-* 🔌 **AI Pipeline Integration:** Learning how to cleanly integrate secure external AI APIs (like OpenAI) into Spring Boot REST backends to build smart, automated application workflows.
+* 📈 **DSA:** Rigorous daily problem solving .
+* ⚛️ **Full-Stack:** Mastering React + TypeScript for building professional, type-safe UIs.
+* 🔌 **AI Engineering:** Bridging Spring Boot backends with LLM pipelines and Vector DBs.
+* 🛠️ **System Scale:** Implementing Docker, Redis, and Kafka for scalable distributed systems.
 
 ---
 
 ### 📌 Looking For Opportunities
-I am actively seeking **Java Developer / Full Stack Internships** where I can bring my adaptable mindset, build creative engineering paths, and contribute to scalable architectures.
+I am actively seeking **Java Developer / Full Stack Internships**. 
 
-[**LinkedIn**](https://linkedin.com/in/pal-tripathi-) | [**Email Me**](mailto:palak09.learner@gmail.com)> > 🔒 **Lost access to my previous GitHub account due to a device 2FA / Authenticator lockout. Moving my older repositories and actively rebuilding my projects here on this fresh profile!**
+[**LinkedIn**](https://linkedin.com/in/pal-tripathi-) | [**Email Me**](mailto:palak09.learner@gmail.com)
+
+> 🔒 **Lost access to my previous GitHub account due to a device 2FA / Authenticator lockout. Moving my older repositories and actively rebuilding my projects here on this fresh profile!**
